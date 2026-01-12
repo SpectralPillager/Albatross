@@ -12,7 +12,7 @@ Backend: https://github.com/RWKV-Vibe/rwkv_lightning
 
 ## Result @ 260109
 
-优化了cuda graph和编译，部分情况下速度提升1.5x，适用于rollout
+优化了cuda graph和编译，部分情况下速度提升1.5x
 
 
 
